@@ -91,13 +91,7 @@ Some themes I'm interested in:
 
 ---
 
-## 📫 Connect With Me
 
-- GitHub: [your-github-link]
-- LinkedIn: [your-linkedin-link]
-- Email: [your-email]
-
----
 
 ## ⚡ Personal Note
 
