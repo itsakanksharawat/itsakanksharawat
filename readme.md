@@ -4,6 +4,7 @@ I'm a 3rd-year CSE (AI/ML) student who is focused on building practical tech pro
 
 Right now, I'm exploring how AI can be used in real-life problem solving — especially in areas like productivity, personal lifestyle systems, decision support, and intelligent applications.
 
+
 ---
 
 ## 🚀 What I'm Working On
