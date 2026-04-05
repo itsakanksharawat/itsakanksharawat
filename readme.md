@@ -9,7 +9,7 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 
 ## 🚀 What I'm Working On
 
-- Building AI/ML-based student and lifestyle projects
+- Building AI/ML-based projects
 - Improving my problem-solving and development skills
 - Learning how to turn ideas into usable products
 - Exploring project development beyond just college assignments
@@ -32,8 +32,8 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 ### Languages
 - Python
 - C++
-- SQL
-- Java (basic)
+- 
+- 
 
 ### AI / ML / Data
 - NumPy
