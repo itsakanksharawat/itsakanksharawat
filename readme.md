@@ -1,4 +1,4 @@
-# Hi, I'm Akanksha  
+# Hi, I'm Akanksha Rawat 
 
 
 I'm a  CSE (AI/ML) student who is focused on building practical tech projects instead of just studying concepts for exams.
@@ -22,7 +22,6 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 - Artificial Intelligence
 - Machine Learning
 - NLP
-- Personal Productivity Systems
 - Lifestyle & Decision-Support Apps
 - Real-world Student Projects
 
