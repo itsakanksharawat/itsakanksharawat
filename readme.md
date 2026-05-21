@@ -35,8 +35,7 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 ### Languages
 - Python
 - C++
-- 
-- 
+  
 
 ### AI / ML / Data
 - NumPy
@@ -50,6 +49,7 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 - Git & GitHub
 - VS Code
 - Google Colab
+- Juypter 
 - Canva (for presentations / visuals)
 
 ---
@@ -59,7 +59,7 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 - Build strong final-year-level projects
 - Create useful AI applications for real users
 - Improve DSA and coding consistency
-- Develop a portfolio that reflects actual skill, not just certificates
+- Developing  a portfolio that reflects actual skill, not just certificates
 
 ---
 
@@ -73,7 +73,7 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 
 ---
 
-## 📂 Project Direction
+##  Project Direction
 
 I want my projects to solve actual user problems instead of being "just another college submission."
 
@@ -86,7 +86,7 @@ Some themes I'm interested in:
 
 ---
 
-## 🤝 Open To
+##  Open To
 
 - Collaboration on student tech projects
 - Hackathons
