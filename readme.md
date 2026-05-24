@@ -60,6 +60,7 @@ Right now, I'm exploring how AI can be used in real-life problem solving — esp
 - Create useful AI applications for real users
 - Improve DSA and coding consistency
 - Developing  a portfolio that reflects actual skill, not just certificates
+- 
 
 ---
 
