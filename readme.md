@@ -1,4 +1,4 @@
-## Hii, I'm Akanksha Rawat 
+## Hiii, I'm Akanksha Rawat 
 
 I'm a  CSE (AI/ML) student who is focused on building practical tech projects instead of just studying concepts for exams(sometime i have to ).
 
