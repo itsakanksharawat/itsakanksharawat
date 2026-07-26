@@ -1,4 +1,4 @@
-## Hiii, I'm Akanksha Rawat
+## Hola, I'm Akanksha Rawat
 
 
 #I'm a  CSE (AI/ML) student who is focused on building practical tech projects .
