@@ -3,6 +3,7 @@
 
 #I'm a  CSE (AI/ML) student who is focused on building practical tech projects .
 
+
 Right now, I'm exploring how AI can be used in real-life problem solving — especially in areas like productivity, personal lifestyle systems, decision support applications.
 
 
